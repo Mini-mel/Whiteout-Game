@@ -1,4 +1,4 @@
-## About Whiteout
+# About Whiteout
 I created this game in 2015 as part of a programming languages class assignment. With free reign to create basically 'whatever', using a language not covered in class, I chose to use Lua in combination with the LOVE engine to make a game.
 
 The folder "Whiteout" contains the code, while the folder **"Whiteout_Executable" contains the .exe** (and .dlls for the engine) that lets you play it.
